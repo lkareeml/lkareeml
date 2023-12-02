@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Kareem Atef
-================================================================
+==============================================
 Embedded System Engineer
 -------------------------------
 - 🌱 I’m currently learning AVR Atmega32 Archtecture / Design / Internal Preferals / External Preferals and so on!

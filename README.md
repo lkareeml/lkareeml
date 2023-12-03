@@ -1,4 +1,4 @@
-### Hi there 👋 This is Kareem Atef
+### Hi 👋 This is Kareem Atef
 ==============================================
 
 Embedded System Engineer
@@ -8,4 +8,4 @@ Embedded System Engineer
 - ⚡ Fun fact: I am an Aerospace Engineer!
 - 🌍  Current location is Giza, Egypt
 - 📫 How to reach me: Kareem.Atef@yahoo.com 
-- Phone: +201092840909
+- ☎️ +201092840909
